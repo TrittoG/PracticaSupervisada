@@ -1,0 +1,46 @@
+Clase 1
+.
+.
+Ionic= *npm install -g ionic
+.
+.
+.
+presentar en dispositivo movil no codigo
+.
+.
+1er parcial 5 aplicaciones como minimo,
+2do parcial en grupos de 3 personas,
+Final individual.
+
+...........................................
+LABO4 ---> ng generate module app-routing --flat --module=app
+...........................................
+
+±Ionic ->framework
+   ionicframework.
+
+±Firebase ->crear cuenta, donde se guarda la info
+±Android Studio ->despues, en principio no
+
+
+
+COMANDOS
+:instalar ionic
+npm install -g ionic
+ionic start NOMBRE (tabs "opcional")
+ionic serve
+
+
+:actualizar node.js
+npm install npm -g
+
+
+
+PARA LA SEMANA QUE VIENE:
+-una aplicacion que ya este corriendo en su dispositivo
+que posea 2 paginas
+.la primera un login con 2 cuadros de texto, email y password y 2 botones aceptar y cancelar
+   puede: no hacer nada o guardar unformacion cuando apreto acceptar en el localstorage
+o mostrarlo en la segunda pagina
+o que pueda interactuar con firebase
+.la segunda con algun texto
